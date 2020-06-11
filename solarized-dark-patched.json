@@ -1,9 +1,9 @@
 {
 	{
 		"name" : "Solarized Dark Patched",
-		"cursorColor": "#839496", // White is horrible in VIM
-		"background" : "#002b36", // Bright black
-		"foreground" : "#839496", // Bright blue
+		"cursorColor": "#839496",
+		"background" : "#002b36",
+		"foreground" : "#839496",
 		"black" : "#073642",
 		"blue" : "#268bd2",
 		"cyan" : "#2aa198",
@@ -12,7 +12,7 @@
 		"red" : "#dc322f",
 		"white" : "#eee8d5",
 		"yellow" : "#b58900",
-		"brightBlack" : "#586e75", // Use bright green so you can actually see --options
+		"brightBlack" : "#586e75",
 		"brightBlue" : "#839496",
 		"brightCyan" : "#93a1a1",
 		"brightGreen" : "#586e75",
